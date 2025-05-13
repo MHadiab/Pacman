@@ -18,3 +18,4 @@ Records Table
 
 Top 10 high scores saved locally
 
+https://github.com/MHadiab/Pacman/issues/1#issue-3060847504
